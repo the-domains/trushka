@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Trushka]]></title>
         <description><![CDATA[Trushka]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trushka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 19:07:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 19:16:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trushka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ffbb338-d03a-4d28-8572-e3b326cb12c9.jpg">]]></description>
+            <link>https://thegrid.ai/trushka/8a1691bd-d05a-4402-b4aa-911f8176271c/index.html</link>
+            <guid isPermaLink="false">8a1691bd-d05a-4402-b4aa-911f8176271c</guid>
+            <pubDate>Tue, 05 Jan 2016 19:16:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9889334-f751-46b0-8bfc-8840fecd1254.jpg">]]></description>
-            <link>undefinedd697f543-833b-4225-82d4-c9c8825440ed/index.html</link>
+            <link>https://thegrid.ai/trushka/d697f543-833b-4225-82d4-c9c8825440ed/index.html</link>
             <guid isPermaLink="false">d697f543-833b-4225-82d4-c9c8825440ed</guid>
             <pubDate>Tue, 05 Jan 2016 19:07:17 GMT</pubDate>
         </item>
